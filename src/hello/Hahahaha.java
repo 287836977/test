@@ -3,7 +3,7 @@ package hello;
 public class Hahahaha {
 
 	public static void main(String[] args) {
-		System.out.println("Git搭好啦");
+		System.out.println("Git搭好啦"); 
 
 	}
 
